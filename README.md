@@ -34,5 +34,8 @@ These accounts are for demonstration only. Do not use these credentials for a re
 - `requirements.txt` — no external dependencies required
 - `design_notes.md` — brief design explanation and testing checklist
 
-## Important academic note
-Review the code, test it on your own computer, and customise it in ways you understand before submitting. The case study states that copied solutions are prohibited, so make sure your final submission reflects your own understanding and follows your lecturer's rules. The demo accounts and policy values are sample choices and may be changed to match your class requirements.
+## GitHub Repository
+
+Project source code: [https://github.com/Ahmed-essa63/Smart-Campus-Resource-Booking-System-402604378](https://github.com/Ahmed-essa63/Smart-Campus-Resource-Booking-System-402604378)
+
+This repository contains the Smart Campus Resource Booking System developed using Python, Tkinter and SQLite.
