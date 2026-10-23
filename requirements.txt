@@ -1,0 +1,2 @@
+# This project uses Python standard-library modules only.
+# Tkinter must be included with your Python installation.
